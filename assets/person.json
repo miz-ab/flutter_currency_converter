@@ -1,0 +1,23 @@
+{
+    "id": "111",
+    "name": "miz",
+    "age": 12,
+    "places": ["Eth", "US"],
+    "images": [
+        {
+            "id": 10,
+            "name": "image 1"
+        },
+        {
+            "id": 12,
+            "name": "image 2"
+        }
+    ],
+    "address": {
+        "sn": 323,
+        "detailes": {
+            "hn": 112,
+            "t": "debre tabour"
+        }
+    }
+}
